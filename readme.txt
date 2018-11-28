@@ -7,3 +7,5 @@
 英语上完所有课
 
 git has a mutable index called stage.
+
+git tracks changes
